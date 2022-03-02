@@ -43,6 +43,9 @@
 .main {
   background-color: var(--background-color);
   height: 100vh;
+  font-family: var(--font-family);
+  color: var(--text-color-title);
+  font-size: 30px;
   display: flex;
   flex-direction: column;
   justify-content: center;

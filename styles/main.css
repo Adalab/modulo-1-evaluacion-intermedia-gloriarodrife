@@ -20,3 +20,13 @@
   width: 155px;
   margin-top: 10px;
 }
+
+.menu {
+  font-family: var(--font-family);
+  width: 155px;
+  margin-top: 10px;
+  margin-bottom: 13px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}

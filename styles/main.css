@@ -60,4 +60,7 @@
     justify-content: space-between;
     padding: 0 30px;
   }
+  .logo {
+    margin: 20px 0;
+  }
 }

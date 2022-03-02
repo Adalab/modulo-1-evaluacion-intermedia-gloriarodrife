@@ -63,4 +63,7 @@
   .logo {
     margin: 20px 0;
   }
+  .main {
+    font-size: 40px;
+  }
 }

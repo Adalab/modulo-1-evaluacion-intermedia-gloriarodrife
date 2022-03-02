@@ -23,7 +23,6 @@
 
 .menu {
   font-family: var(--font-family);
-  width: 155px;
   margin-top: 10px;
   margin-bottom: 13px;
   display: flex;
